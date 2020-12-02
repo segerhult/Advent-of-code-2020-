@@ -3,3 +3,9 @@
 ################################################################################
 
 /.vs/slnx.sqlite
+*.db
+/.vs/Advent-of-code-2020-/v16/Browse.VC.db-shm
+/.vs/Advent-of-code-2020-/v16/Browse.VC.db-wal
+/.vs/Advent-of-code-2020-/v16/Browse.VC.opendb
+/.vs/ProjectSettings.json
+/1th/src
